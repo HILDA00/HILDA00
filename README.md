@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HILDA00
-- 👀 I’m interested in Project management
+- 👀 I’m interested in Data Sciencs
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on value
 - 📫 How to reach me hildaolabanji@gmail.com
